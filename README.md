@@ -17,6 +17,8 @@ I'm Stephen Gordon, a final year student passionate about web development. Here 
 - 💼 Interned as a web developer at Cronet IT in Dublin.
 - 🎨 Skilled in UI/UX design and database development.
 - 🐍 Currently exploring Python for AI and data analytics.
+- ![IMG_3268](https://github.com/Stephen-Gordon/Stephen-Gordon/assets/91547618/723a10da-9b54-4fa9-a6d1-d97cef6b0b43)
+
 
 ### Tech Skills
 
