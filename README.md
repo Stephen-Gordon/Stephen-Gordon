@@ -1,9 +1,9 @@
-<h1 align="">Hi 👋, I'm Stephen Gordon</h1>
-<h3 align="">A fourth year student focusing on full stack development</h3>
+# Hi 👋, I'm Stephen Gordon
+### A fourth year student focusing on full stack development
 
 - 🌱 I’m currently learning **React, Python, Data Visualization, AI, Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://stephengordon.ie/](https://stephengordon.ie/)
+- 👨‍💻 All of my projects are available <a href="https://www.stephengordon.ie/" target="blank">Here</a>
 
 - 💬 Ask me about **React, Laravel, Framer Motion**
 
@@ -11,8 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ste-gordon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ste-gordon/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/48stephen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/48stephen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ste-gordon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ste-gordon/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
