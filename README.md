@@ -1,5 +1,5 @@
 # Hi 👋, I'm Stephen Gordon
-### A fourth year student focusing on full stack development
+### A fourth-year Creative Computing student focusing on full-stack development.
 
 - 🌱 I’m currently learning **React, Python, Data Visualization, AI, Backend Development**
 
@@ -8,6 +8,11 @@
 - 💬 Ask me about **React, Laravel, Framer Motion**
 
 - 📫 How to reach me **stephengordon48@gmail.com**
+
+<a href="https://www.stephengordon.ie" target="blank">
+<h3 align="left">Check out my portfolio</h3>
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
