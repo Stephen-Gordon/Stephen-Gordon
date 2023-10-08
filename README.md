@@ -9,10 +9,7 @@
 
 - 📫 How to reach me **stephengordon48@gmail.com**
 
-<a href="https://www.stephengordon.ie" target="blank">
-<h3 align="left">Check out my portfolio</h3>
-</a>
-
+[Check out my portfolio](https://stephengordon.ie/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
