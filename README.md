@@ -1,5 +1,5 @@
 # Hi 👋, I'm Stephen Gordon
-### A fourth-year Creative Computing student focusing on full-stack development.
+### A final year Creative Computing student focusing on full-stack development.
 
 - 🌱 I’m currently learning **React, Python, Data Visualization, AI, Backend Development**
 
