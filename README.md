@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available <a href="https://www.stephengordon.ie/" target="blank">Here</a>
 
-- 💬 Ask me about **React, Laravel, Framer Motion**
+- 💬 Ask me about **React, React Native, Laravel, Framer Motion**
 
 - 📫 How to reach me **stephengordon48@gmail.com**
 
