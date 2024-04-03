@@ -1,11 +1,11 @@
 # Hi 👋, I'm Stephen Gordon
-### A final year Creative Computing student focusing on full-stack development.
+### A final year Creative Computing student focusing on full-stack & app development.
 
-- 🌱 I’m currently learning **React, Python, Data Visualization, AI, Backend Development**
+- 🌱 I’m currently learning **React, React Native, Next, Python, Data Visualization, AI, Backend Development**
 
 - 👨‍💻 All of my projects are available <a href="https://www.stephengordon.ie/" target="blank">Here</a>
 
-- 💬 Ask me about **React, React Native, Laravel, Framer Motion**
+- 💬 Ask me about **React, React Native, Express, Laravel, Framer Motion**
 
 - 📫 How to reach me **stephengordon48@gmail.com**
 
