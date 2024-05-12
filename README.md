@@ -1,7 +1,5 @@
 # Hi 👋, I'm Stephen Gordon
-### A final year Creative Computing student focusing on full-stack web & app development.
-
-- 🌱 I’m currently learning **React, React Native, Next, Python, Data Visualization, AI, Backend Development**
+### A graduate Creative Computing student focusing on full-stack web & app development. I'm currently looking for work in Fintech or Web3 wallets 
 
 - 👨‍💻 All of my projects are available <a href="https://www.stephengordon.ie/" target="blank">Here</a>
 
