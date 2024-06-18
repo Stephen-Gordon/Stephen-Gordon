@@ -1,5 +1,5 @@
 # Hi 👋, I'm Stephen Gordon
-### A graduate Creative Computing student focusing on full-stack web & app development. I'm currently looking for work in Fintech or Web3 wallets 
+### A graduate Creative Computing student focusing on full-stack web & app development.
 
 - 👨‍💻 All of my projects are available <a href="https://www.stephengordon.ie/" target="blank">Here</a>
 
